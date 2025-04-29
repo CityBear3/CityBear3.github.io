@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://CityBear3.github.io',
+	site: 'https://citybear3.github.io',
 	integrations: [mdx(), sitemap()],
 });
